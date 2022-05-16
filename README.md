@@ -14,7 +14,7 @@ In terms of app functionality, it is built to allow users to input and save simp
 
 ## Screenshot
 This is a screenshot of the front-end application.
-![Note Taker Application Screenshot](./Assets/Note-Taker-App_Screenshot.png)
+![Note Taker Application Screenshot](./Assets/11-express-homework-demo-02.png)
 
 ## Deployed Application
 Link: https://note-takerr-11.herokuapp.com/
